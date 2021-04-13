@@ -1,2 +1,2 @@
 # assembly
-Programs implemented for university course
+Programs for university course
